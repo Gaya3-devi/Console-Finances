@@ -20,3 +20,6 @@ This code analyzes the records to calculate each of the following:
 * Printing the above analysis to the console.
 
 ---
+
+
+<img width="482" alt="Screenshot 2023-02-24 at 10 11 41 PM" src="https://user-images.githubusercontent.com/90560060/221304323-b318f59a-1383-4b50-a4bd-0b4ee6d8312f.png">
